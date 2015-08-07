@@ -1,0 +1,63 @@
+TView Switcher
+v7
+r1
+
+N/Users/Valency/Documents/View Switcher/BlueView.xib
+c0000000049D2EC800000000000001EAA
+t1238559872
+s7850
+
+N/Users/Valency/Documents/View Switcher/MainWindow.xib
+c0000000049D2EC800000000000003129
+t1238559872
+s12585
+
+N/Users/Valency/Documents/View Switcher/YellowView.xib
+c0000000049D2EC800000000000001EC0
+t1238559872
+s7872
+
+N/Users/Valency/Documents/View Switcher/build/Debug/View Switcher.app
+t2
+s0
+
+N/Users/Valency/Documents/View Switcher/build/Debug/View Switcher.app/Contents/Info.plist
+t2
+s0
+
+N/Users/Valency/Documents/View Switcher/build/Debug/View Switcher.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/Valency/Documents/View Switcher/build/Debug/View Switcher.app/Contents/Resources/BlueView.nib
+t2
+s0
+
+N/Users/Valency/Documents/View Switcher/build/Debug/View Switcher.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/Valency/Documents/View Switcher/build/Debug/View Switcher.app/Contents/Resources/YellowView.nib
+t2
+s0
+
+NInfo.plist
+c0000000049D2EC800000000000000381
+t1238559872
+s897
+
+CCompileXIB "/Users/Valency/Documents/View Switcher/BlueView.xib"
+r0
+
+CCompileXIB "/Users/Valency/Documents/View Switcher/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/Valency/Documents/View Switcher/YellowView.xib"
+r0
+
+CProcessInfoPlistFile "/Users/Valency/Documents/View Switcher/build/Debug/View Switcher.app/Contents/Info.plist" Info.plist
+r0
+
+CTouch "/Users/Valency/Documents/View Switcher/build/Debug/View Switcher.app"
+r0
+

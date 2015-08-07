@@ -1,0 +1,20 @@
+C:\Users\Valency\Documents\Visual Studio 2010\Projects\iLaser\iLaser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Valency\Documents\Visual Studio 2010\Projects\iLaser\iLaser\obj\x86\Debug\iLaser.Form1.resources
+C:\Users\Valency\Documents\Visual Studio 2010\Projects\iLaser\iLaser\obj\x86\Debug\iLaser.Form2.resources
+C:\Users\Valency\Documents\Visual Studio 2010\Projects\iLaser\iLaser\obj\x86\Debug\iLaser.Properties.Resources.resources
+C:\Users\Valency\Documents\Visual Studio 2010\Projects\iLaser\iLaser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Valency\Documents\Visual Studio 2010\Projects\iLaser\iLaser\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Valency\Documents\Visual Studio 2010\Projects\iLaser\iLaser\bin\Debug\iLaser.exe
+C:\Users\Valency\Documents\Visual Studio 2010\Projects\iLaser\iLaser\bin\Debug\iLaser.pdb
+C:\Users\Valency\Documents\Visual Studio 2010\Projects\iLaser\iLaser\obj\x86\Debug\iLaser.exe
+C:\Users\Valency\Documents\Visual Studio 2010\Projects\iLaser\iLaser\obj\x86\Debug\iLaser.pdb
+C:\Users\Valency\Documents\Projects\iPhone Remote\iLaser\iLaser\obj\x86\Debug\iLaser.exe
+C:\Users\Valency\Documents\Projects\iPhone Remote\iLaser\iLaser\obj\x86\Debug\iLaser.pdb
+C:\Users\Valency\Documents\Projects\iPhone Remote\iLaser\iLaser\bin\Debug\iLaser.exe
+C:\Users\Valency\Documents\Projects\iPhone Remote\iLaser\iLaser\bin\Debug\iLaser.pdb
+C:\Users\Valency\Documents\Projects\iPhone Remote\iLaser\iLaser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Valency\Documents\Projects\iPhone Remote\iLaser\iLaser\obj\x86\Debug\iLaser.Form1.resources
+C:\Users\Valency\Documents\Projects\iPhone Remote\iLaser\iLaser\obj\x86\Debug\iLaser.Form2.resources
+C:\Users\Valency\Documents\Projects\iPhone Remote\iLaser\iLaser\obj\x86\Debug\iLaser.Properties.Resources.resources
+C:\Users\Valency\Documents\Projects\iPhone Remote\iLaser\iLaser\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Valency\Documents\Projects\iPhone Remote\iLaser\iLaser\obj\x86\Debug\GenerateResource.write.1.tlog

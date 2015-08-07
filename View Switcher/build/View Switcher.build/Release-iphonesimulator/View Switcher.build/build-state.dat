@@ -1,0 +1,331 @@
+TView Switcher
+v7
+r0
+t312794591.763570
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/Info.plist" Info.plist
+cCompileXIB "/Users/Valency/Documents/View Switcher/MainWindow.xib"
+cCompileXIB "/Users/Valency/Documents/View Switcher/BlueView.xib"
+cCompileXIB "/Users/Valency/Documents/View Switcher/YellowView.xib"
+cProcessPCH /var/folders/ls/lsOoftfkHPmBcZd6uQraQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-dlvgvnsnjzuqfwfvgakrdkozmoto/View_Switcher_Prefix.pch.gch View_Switcher_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/main.o" "/Users/Valency/Documents/View Switcher/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/View_SwitcherAppDelegate.o" "/Users/Valency/Documents/View Switcher/Classes/View_SwitcherAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/SwitchViewController.o" "/Users/Valency/Documents/View Switcher/Classes/SwitchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/BlueViewController.o" "/Users/Valency/Documents/View Switcher/Classes/BlueViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC "build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/YellowViewController.o" "/Users/Valency/Documents/View Switcher/Classes/YellowViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/View Switcher" normal i386
+cGenerateDSYMFile "/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app.dSYM" "/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/View Switcher"
+cTouch "/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/Valency/Documents/View Switcher/BlueView.xib
+c0000000049D2EC800000000000001EAA
+t1238559872
+s7850
+
+N/Users/Valency/Documents/View Switcher/Classes/BlueViewController.h
+c0000000049D2EC800000000000000116
+t1238559872
+s278
+i<UIKit/UIKit.h>
+
+N/Users/Valency/Documents/View Switcher/Classes/BlueViewController.m
+c0000000049D2EC800000000000000555
+t1238559872
+s1365
+i"BlueViewController.h"
+
+N/Users/Valency/Documents/View Switcher/Classes/SwitchViewController.h
+c0000000049D2EC800000000000000232
+t1238559872
+s562
+i<UIKit/UIKit.h>
+
+N/Users/Valency/Documents/View Switcher/Classes/SwitchViewController.m
+c0000000049ED59F80000000000000D7D
+t1240291832
+s3453
+i"SwitchViewController.h"
+i"BlueViewController.h"
+i"YellowViewController.h"
+
+N/Users/Valency/Documents/View Switcher/Classes/View_SwitcherAppDelegate.h
+c0000000049D2EC8000000000000001F4
+t1238559872
+s500
+i<UIKit/UIKit.h>
+
+N/Users/Valency/Documents/View Switcher/Classes/View_SwitcherAppDelegate.m
+c0000000049D2EC80000000000000027A
+t1238559872
+s634
+i"View_SwitcherAppDelegate.h"
+i"SwitchViewController.h"
+
+N/Users/Valency/Documents/View Switcher/Classes/YellowViewController.h
+c000000004CF4A54B00000000000002EB
+t1291101515
+s747
+i<UIKit/UIKit.h>
+
+N/Users/Valency/Documents/View Switcher/Classes/YellowViewController.m
+c000000004CF4A65C00000000000012C9
+t1291101788
+s4809
+i"YellowViewController.h"
+
+N/Users/Valency/Documents/View Switcher/MainWindow.xib
+c0000000049D2EC800000000000003129
+t1238559872
+s12585
+
+N/Users/Valency/Documents/View Switcher/View_Switcher_Prefix.pch
+c0000000049D2EC8000000000000000BB
+t1238559872
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Valency/Documents/View Switcher/YellowView.xib
+c000000004CF4A59F0000000000007269
+t1291101599
+s29289
+
+N/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app
+t1291101791
+s272
+
+N/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app.dSYM
+t1291101791
+s102
+
+N/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/BlueView.nib
+t1290172230
+s2541
+
+N/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/Info.plist
+t1290172227
+s610
+
+N/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/MainWindow.nib
+t1290172229
+s2439
+
+N/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/PkgInfo
+t1290172227
+s8
+
+N/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/View Switcher
+t1291101791
+s27136
+
+N/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/YellowView.nib
+t1291101607
+s4637
+
+N/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/BlueViewController.o
+t1290172235
+s41908
+
+N/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/SwitchViewController.o
+t1291101517
+s43404
+
+N/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/View Switcher.LinkFileList
+c000000004CE6774300000000000002EA
+t1290172227
+s746
+
+N/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/View_SwitcherAppDelegate.o
+t1290172234
+s45348
+
+N/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/YellowViewController.o
+t1291101791
+s47228
+
+N/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/main.o
+t1290172234
+s6288
+
+N/Users/Valency/Documents/View Switcher/main.m
+c0000000049D2EC800000000000000160
+t1238559872
+s352
+i<UIKit/UIKit.h>
+
+N/var/folders/ls/lsOoftfkHPmBcZd6uQraQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-dlvgvnsnjzuqfwfvgakrdkozmoto/View_Switcher_Prefix.pch.gch
+t1290172233
+s14875664
+
+NInfo.plist
+c0000000049D2EC800000000000000381
+t1238559872
+s897
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312794588#312794589#0(0"0(0#1#0"8610217408#0"0#
+
+CCompileC "build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/BlueViewController.o" "/Users/Valency/Documents/View Switcher/Classes/BlueViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311865035.292755
+e311865035.702711
+r1
+xCompileC
+xbuild/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/BlueViewController.o
+x/Users/Valency/Documents/View Switcher/Classes/BlueViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/Valency/Documents/View Switcher/Classes/BlueViewController.m311865035#311865035#0(0"0(0#0#67"/Users/Valency/Documents/View Switcher/Classes/BlueViewController.m8603417920#2127"    cd "/Users/Valency/Documents/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-generated-files.hmap" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-own-target-headers.hmap" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-all-target-headers.hmap" -iquote "/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-project-headers.hmap" "-F/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator" "-I/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/include" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/DerivedSources/i386" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/DerivedSources" -include /var/folders/ls/lsOoftfkHPmBcZd6uQraQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-dlvgvnsnjzuqfwfvgakrdkozmoto/View_Switcher_Prefix.pch -c "/Users/Valency/Documents/View Switcher/Classes/BlueViewController.m" -o "/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/BlueViewController.o"0#
+
+CCompileC "build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/SwitchViewController.o" "/Users/Valency/Documents/View Switcher/Classes/SwitchViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312794315.940637
+e312794317.427972
+r1
+xCompileC
+xbuild/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/SwitchViewController.o
+x/Users/Valency/Documents/View Switcher/Classes/SwitchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/Valency/Documents/View Switcher/Classes/SwitchViewController.m312794315#312794317#0(0"0(0#0#69"/Users/Valency/Documents/View Switcher/Classes/SwitchViewController.m8603234944#2131"    cd "/Users/Valency/Documents/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-generated-files.hmap" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-own-target-headers.hmap" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-all-target-headers.hmap" -iquote "/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-project-headers.hmap" "-F/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator" "-I/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/include" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/DerivedSources/i386" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/DerivedSources" -include /var/folders/ls/lsOoftfkHPmBcZd6uQraQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-dlvgvnsnjzuqfwfvgakrdkozmoto/View_Switcher_Prefix.pch -c "/Users/Valency/Documents/View Switcher/Classes/SwitchViewController.m" -o "/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/SwitchViewController.o"0#
+
+CCompileC "build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/View_SwitcherAppDelegate.o" "/Users/Valency/Documents/View Switcher/Classes/View_SwitcherAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311865034.450324
+e311865034.816487
+r1
+xCompileC
+xbuild/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/View_SwitcherAppDelegate.o
+x/Users/Valency/Documents/View Switcher/Classes/View_SwitcherAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/Valency/Documents/View Switcher/Classes/View_SwitcherAppDelegate.m311865034#311865034#0(0"0(0#0#73"/Users/Valency/Documents/View Switcher/Classes/View_SwitcherAppDelegate.m8603495040#2139"    cd "/Users/Valency/Documents/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-generated-files.hmap" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-own-target-headers.hmap" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-all-target-headers.hmap" -iquote "/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-project-headers.hmap" "-F/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator" "-I/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/include" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/DerivedSources/i386" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/DerivedSources" -include /var/folders/ls/lsOoftfkHPmBcZd6uQraQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-dlvgvnsnjzuqfwfvgakrdkozmoto/View_Switcher_Prefix.pch -c "/Users/Valency/Documents/View Switcher/Classes/View_SwitcherAppDelegate.m" -o "/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/View_SwitcherAppDelegate.o"0#
+
+CCompileC "build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/YellowViewController.o" "/Users/Valency/Documents/View Switcher/Classes/YellowViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s312794588.300599
+e312794591.349165
+r1
+xCompileC
+xbuild/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/YellowViewController.o
+x/Users/Valency/Documents/View Switcher/Classes/YellowViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/Valency/Documents/View Switcher/Classes/YellowViewController.m312794588#312794591#0(0"0(0#0#69"/Users/Valency/Documents/View Switcher/Classes/YellowViewController.m8616393856#2131"    cd "/Users/Valency/Documents/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-generated-files.hmap" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-own-target-headers.hmap" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-all-target-headers.hmap" -iquote "/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-project-headers.hmap" "-F/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator" "-I/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/include" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/DerivedSources/i386" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/DerivedSources" -include /var/folders/ls/lsOoftfkHPmBcZd6uQraQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-dlvgvnsnjzuqfwfvgakrdkozmoto/View_Switcher_Prefix.pch -c "/Users/Valency/Documents/View Switcher/Classes/YellowViewController.m" -o "/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/YellowViewController.o"0#
+
+CCompileC "build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/main.o" "/Users/Valency/Documents/View Switcher/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s311865033.827858
+e311865034.450230
+r1
+xCompileC
+xbuild/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/main.o
+x/Users/Valency/Documents/View Switcher/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/Valency/Documents/View Switcher/main.m311865033#311865034#0(0"0(0#0#45"/Users/Valency/Documents/View Switcher/main.m8599594816#2091"    cd "/Users/Valency/Documents/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-generated-files.hmap" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-own-target-headers.hmap" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-all-target-headers.hmap" -iquote "/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-project-headers.hmap" "-F/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator" "-I/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/include" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/DerivedSources/i386" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/DerivedSources" -include /var/folders/ls/lsOoftfkHPmBcZd6uQraQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-dlvgvnsnjzuqfwfvgakrdkozmoto/View_Switcher_Prefix.pch -c "/Users/Valency/Documents/View Switcher/main.m" -o "/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/Valency/Documents/View Switcher/BlueView.xib"
+s311865029.583582
+e311865030.777344
+r1
+xCompileXIB
+x/Users/Valency/Documents/View Switcher/BlueView.xib
+lSLF07#2@23"CompileXIB BlueView.xib311865029#311865030#0(0"0(0#0#51"/Users/Valency/Documents/View Switcher/BlueView.xib9007710362468456#580"    cd "/Users/Valency/Documents/View Switcher"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/BlueView.nib" "/Users/Valency/Documents/View Switcher/BlueView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/Valency/Documents/View Switcher/MainWindow.xib"
+s311865027.921825
+e311865029.583294
+r1
+xCompileXIB
+x/Users/Valency/Documents/View Switcher/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib311865027#311865029#0(0"0(0#0#53"/Users/Valency/Documents/View Switcher/MainWindow.xib8602886144#584"    cd "/Users/Valency/Documents/View Switcher"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/MainWindow.nib" "/Users/Valency/Documents/View Switcher/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB "/Users/Valency/Documents/View Switcher/YellowView.xib"
+s312794403.847993
+e312794407.415859
+r1
+xCompileXIB
+x/Users/Valency/Documents/View Switcher/YellowView.xib
+lSLF07#2@25"CompileXIB YellowView.xib312794403#312794407#0(0"0(0#0#53"/Users/Valency/Documents/View Switcher/YellowView.xib8601247648#584"    cd "/Users/Valency/Documents/View Switcher"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/YellowView.nib" "/Users/Valency/Documents/View Switcher/YellowView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile "/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app.dSYM" "/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/View Switcher"
+s312794591.691885
+e312794591.751127
+r1
+xGenerateDSYMFile
+x/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app.dSYM
+x/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/View Switcher
+lSLF07#2@135"GenerateDSYMFile "build/Release-iphonesimulator/View Switcher.app.dSYM" "build/Release-iphonesimulator/View Switcher.app/View Switcher"312794591#312794591#0(0"0(0#0#100"/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/View Switcher8611634112#411"    cd "/Users/Valency/Documents/View Switcher"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/View Switcher" -o "/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app.dSYM"0#
+
+CLd "/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/View Switcher" normal i386
+s312794591.349387
+e312794591.691778
+r1
+xLd
+x/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/View Switcher
+xnormal
+xi386
+lSLF07#2@105"Link /Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/View Switcher312794591#312794591#0(0"0(0#0#0"8602596640#924"    cd "/Users/Valency/Documents/View Switcher"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator" "-F/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator" -filelist "/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/Objects-normal/i386/View Switcher.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -o "/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/View Switcher"0#
+
+CProcessInfoPlistFile "/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/Info.plist" Info.plist
+s311865027.829027
+e311865027.921728
+r1
+xProcessInfoPlistFile
+x/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist311865027#311865028#0(0"0(0#0#49"/Users/Valency/Documents/View Switcher/Info.plist7308327698972306432#493"    cd "/Users/Valency/Documents/View Switcher"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app/Info.plist"0#
+
+CProcessPCH /var/folders/ls/lsOoftfkHPmBcZd6uQraQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-dlvgvnsnjzuqfwfvgakrdkozmoto/View_Switcher_Prefix.pch.gch View_Switcher_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311865031.904561
+e311865033.827625
+r1
+xProcessPCH
+x/var/folders/ls/lsOoftfkHPmBcZd6uQraQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-dlvgvnsnjzuqfwfvgakrdkozmoto/View_Switcher_Prefix.pch.gch
+xView_Switcher_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile View_Switcher_Prefix.pch311865031#311865033#0(0"0(0#0#63"/Users/Valency/Documents/View Switcher/View_Switcher_Prefix.pch8604785856#1973"    cd "/Users/Valency/Documents/View Switcher"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-generated-files.hmap" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-own-target-headers.hmap" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-all-target-headers.hmap" -iquote "/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/View Switcher-project-headers.hmap" "-F/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator" "-I/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/include" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/DerivedSources/i386" "-I/Users/Valency/Documents/View Switcher/build/View Switcher.build/Release-iphonesimulator/View Switcher.build/DerivedSources" -c "/Users/Valency/Documents/View Switcher/View_Switcher_Prefix.pch" -o /var/folders/ls/lsOoftfkHPmBcZd6uQraQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-dlvgvnsnjzuqfwfvgakrdkozmoto/View_Switcher_Prefix.pch.gch0#
+
+CTouch "/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app"
+s312794591.751214
+e312794591.763516
+r1
+xTouch
+x/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app
+lSLF07#2@92"Touch /Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app312794591#312794591#0(0"0(0#0#0"8609818528#290"    cd "/Users/Valency/Documents/View Switcher"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Valency/Documents/View Switcher/build/Release-iphonesimulator/View Switcher.app"0#
+

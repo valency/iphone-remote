@@ -1,0 +1,225 @@
+TView Switcher
+v7
+r1
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk
+c000000004CE4D5350000000000000110
+t1290065205
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+c000000004C578FA900000000000001E5
+t1280806825
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A52B100000000003E1EF0
+t1280987825
+s4071152
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A527F0000000000001466
+t1280987775
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C62427000000000000009CD
+t1281507952
+s2509
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C62430F0000000002EBC2B0
+t1281508111
+s49005232
+
+N/Users/Valency/Documents/View Switcher/BlueView.xib
+c0000000049D2EC800000000000001EAA
+t1238559872
+s7850
+
+N/Users/Valency/Documents/View Switcher/Classes/BlueViewController.h
+c0000000049D2EC800000000000000116
+t1238559872
+s278
+i<UIKit/UIKit.h>
+
+N/Users/Valency/Documents/View Switcher/Classes/BlueViewController.m
+c0000000049D2EC800000000000000555
+t1238559872
+s1365
+i"BlueViewController.h"
+
+N/Users/Valency/Documents/View Switcher/Classes/SwitchViewController.h
+c0000000049D2EC800000000000000232
+t1238559872
+s562
+i<UIKit/UIKit.h>
+
+N/Users/Valency/Documents/View Switcher/Classes/SwitchViewController.m
+c0000000049ED59F80000000000000D7D
+t1240291832
+s3453
+i"SwitchViewController.h"
+i"BlueViewController.h"
+i"YellowViewController.h"
+
+N/Users/Valency/Documents/View Switcher/Classes/View_SwitcherAppDelegate.h
+c0000000049D2EC8000000000000001F4
+t1238559872
+s500
+i<UIKit/UIKit.h>
+
+N/Users/Valency/Documents/View Switcher/Classes/View_SwitcherAppDelegate.m
+c0000000049D2EC80000000000000027A
+t1238559872
+s634
+i"View_SwitcherAppDelegate.h"
+i"SwitchViewController.h"
+
+N/Users/Valency/Documents/View Switcher/Classes/YellowViewController.h
+c000000004CE665950000000000000299
+t1290167701
+s665
+i<UIKit/UIKit.h>
+
+N/Users/Valency/Documents/View Switcher/Classes/YellowViewController.m
+c000000004CE6694D0000000000000929
+t1290168653
+s2345
+i"YellowViewController.h"
+
+N/Users/Valency/Documents/View Switcher/MainWindow.xib
+c0000000049D2EC800000000000003129
+t1238559872
+s12585
+
+N/Users/Valency/Documents/View Switcher/View_Switcher_Prefix.pch
+c0000000049D2EC8000000000000000BB
+t1238559872
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Valency/Documents/View Switcher/YellowView.xib
+c000000004CE660490000000000005EAB
+t1290166345
+s24235
+
+N/Users/Valency/Documents/View Switcher/build/Debug-iphoneos/View Switcher.app
+t2
+s0
+
+N/Users/Valency/Documents/View Switcher/build/Debug-iphoneos/View Switcher.app.dSYM
+t2
+s0
+
+N/Users/Valency/Documents/View Switcher/build/Debug-iphoneos/View Switcher.app/BlueView.nib
+t2
+s0
+
+N/Users/Valency/Documents/View Switcher/build/Debug-iphoneos/View Switcher.app/Info.plist
+t2
+s0
+
+N/Users/Valency/Documents/View Switcher/build/Debug-iphoneos/View Switcher.app/MainWindow.nib
+t2
+s0
+
+N/Users/Valency/Documents/View Switcher/build/Debug-iphoneos/View Switcher.app/PkgInfo
+t2
+s0
+
+N/Users/Valency/Documents/View Switcher/build/Debug-iphoneos/View Switcher.app/ResourceRules.plist
+t2
+s0
+
+N/Users/Valency/Documents/View Switcher/build/Debug-iphoneos/View Switcher.app/View Switcher
+t2
+s0
+
+N/Users/Valency/Documents/View Switcher/build/Debug-iphoneos/View Switcher.app/YellowView.nib
+t2
+s0
+
+N/Users/Valency/Documents/View Switcher/build/View Switcher.build/Debug-iphoneos/View Switcher.build/Objects-normal/armv6/BlueViewController.o
+t2
+s0
+
+N/Users/Valency/Documents/View Switcher/build/View Switcher.build/Debug-iphoneos/View Switcher.build/Objects-normal/armv6/SwitchViewController.o
+t2
+s0
+
+N/Users/Valency/Documents/View Switcher/build/View Switcher.build/Debug-iphoneos/View Switcher.build/Objects-normal/armv6/View Switcher.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Valency/Documents/View Switcher/build/View Switcher.build/Debug-iphoneos/View Switcher.build/Objects-normal/armv6/View_SwitcherAppDelegate.o
+t2
+s0
+
+N/Users/Valency/Documents/View Switcher/build/View Switcher.build/Debug-iphoneos/View Switcher.build/Objects-normal/armv6/YellowViewController.o
+t2
+s0
+
+N/Users/Valency/Documents/View Switcher/build/View Switcher.build/Debug-iphoneos/View Switcher.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/Valency/Documents/View Switcher/main.m
+c0000000049D2EC800000000000000160
+t1238559872
+s352
+i<UIKit/UIKit.h>
+
+N/var/folders/ls/lsOoftfkHPmBcZd6uQraQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-dkfmnbtgpxkhvrbuqqqmlfaabsfo/View_Switcher_Prefix.pch.gch
+t2
+s0
+
+NInfo.plist
+c0000000049D2EC800000000000000381
+t1238559872
+s897
+
+CCompileC "build/View Switcher.build/Debug-iphoneos/View Switcher.build/Objects-normal/armv6/BlueViewController.o" "/Users/Valency/Documents/View Switcher/Classes/BlueViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/View Switcher.build/Debug-iphoneos/View Switcher.build/Objects-normal/armv6/SwitchViewController.o" "/Users/Valency/Documents/View Switcher/Classes/SwitchViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/View Switcher.build/Debug-iphoneos/View Switcher.build/Objects-normal/armv6/View_SwitcherAppDelegate.o" "/Users/Valency/Documents/View Switcher/Classes/View_SwitcherAppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/View Switcher.build/Debug-iphoneos/View Switcher.build/Objects-normal/armv6/YellowViewController.o" "/Users/Valency/Documents/View Switcher/Classes/YellowViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC "build/View Switcher.build/Debug-iphoneos/View Switcher.build/Objects-normal/armv6/main.o" "/Users/Valency/Documents/View Switcher/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB "/Users/Valency/Documents/View Switcher/BlueView.xib"
+r0
+
+CCompileXIB "/Users/Valency/Documents/View Switcher/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/Valency/Documents/View Switcher/YellowView.xib"
+r0
+
+CCpResource "build/Debug-iphoneos/View Switcher.app/ResourceRules.plist" /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.1.sdk/ResourceRules.plist
+r0
+
+CGenerateDSYMFile "/Users/Valency/Documents/View Switcher/build/Debug-iphoneos/View Switcher.app.dSYM" "/Users/Valency/Documents/View Switcher/build/Debug-iphoneos/View Switcher.app/View Switcher"
+r0
+
+CLd "/Users/Valency/Documents/View Switcher/build/Debug-iphoneos/View Switcher.app/View Switcher" normal armv6
+r0
+
+CProcessInfoPlistFile "/Users/Valency/Documents/View Switcher/build/Debug-iphoneos/View Switcher.app/Info.plist" Info.plist
+r0
+
+CProcessPCH /var/folders/ls/lsOoftfkHPmBcZd6uQraQE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/View_Switcher_Prefix-dkfmnbtgpxkhvrbuqqqmlfaabsfo/View_Switcher_Prefix.pch.gch View_Switcher_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch "/Users/Valency/Documents/View Switcher/build/Debug-iphoneos/View Switcher.app"
+r0
+
